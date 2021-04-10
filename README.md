@@ -8,8 +8,8 @@ Blynk is done already, but we are still working on MQTT.
 
 We used code of these repositories:
 
-https://github.com/tzapu/WiFiManager
-https://github.com/bblanchon/ArduinoJson
-https://github.com/jenscski/DoubleResetDetect
-https://github.com/esp8266/Arduino
-https://blynk.io/
+- https://github.com/tzapu/WiFiManager
+- https://github.com/bblanchon/ArduinoJson
+- https://github.com/jenscski/DoubleResetDetect
+- https://github.com/esp8266/Arduino
+- https://blynk.io/
