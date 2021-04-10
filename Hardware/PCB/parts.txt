@@ -7,5 +7,5 @@ Count	Part			Part Number
 3	Mosfet			SE30150B
 3	R1, R2, R3		TC0625F1002T5E
 3	R4, R5, R6		TC0550D5601T5J
-1	D1 Mini - ESP8266 (if possible with Male and Memale Headers included)
+1	D1 Mini - ESP8266 (if possible with Male and Female Headers included)
 1	12V Powersupply (if not compatible with DC005 use the Screw Terminal)
